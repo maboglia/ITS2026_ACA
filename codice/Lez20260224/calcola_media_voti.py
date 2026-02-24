@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """ Programma per calcolare la media dei voti """
 
 def calcola_media(*voti):
@@ -12,3 +13,16 @@ def calcola_media(*voti):
 media_voti = calcola_media(25,28,30,19)
 
 print(f"La media aritmetica dei tuoi voti è: {media_voti:.2f}")
+=======
+def calcola_media(voti):
+    totale = 0
+    for voto in voti:
+        totale += voto
+    
+    media = totale / len(voti)
+    return media
+
+media_voti = calcola_media(25, 28, 30, 19)
+
+print(f"La media artimetica dei tuoi voti è media:{media_voti:.2f}")
+>>>>>>> 6946f19a7cc5421ce8fad76876fed9c3087c69d1
