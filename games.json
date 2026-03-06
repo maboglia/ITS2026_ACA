@@ -1,0 +1,2490 @@
+[
+    [
+        1,
+        "The Oregon Trail",
+        "Strategy",
+        "MECC",
+        "HP 2100",
+        1971
+    ],
+    [
+        2,
+        "Pong",
+        "Sports",
+        "Atari, Inc.",
+        "Arcade",
+        1972
+    ],
+    [
+        3,
+        "Combat",
+        "Top-down shooter",
+        "Atari, Inc.",
+        "Atari 2600",
+        1977
+    ],
+    [
+        4,
+        "Zork",
+        "Adventure",
+        "Infocom",
+        "PDP-10",
+        1977
+    ],
+    [
+        5,
+        "Space Invaders",
+        "Shoot 'em up",
+        "Taito",
+        "Arcade",
+        1978
+    ],
+    [
+        6,
+        "Asteroids",
+        "Shoot 'em up",
+        "Atari, Inc.",
+        "Arcade",
+        1979
+    ],
+    [
+        7,
+        "Adventure",
+        "Action-adventure",
+        "Atari, Inc.",
+        "Atari 2600",
+        1980
+    ],
+    [
+        8,
+        "Battlezone",
+        "Vehicle simulation",
+        "Atari, Inc.",
+        "Arcade",
+        1980
+    ],
+    [
+        9,
+        "Missile Command",
+        "Shoot 'em up",
+        "Atari, Inc.",
+        "Arcade",
+        1980
+    ],
+    [
+        10,
+        "Pac-Man",
+        "Maze",
+        "Namco",
+        "Arcade",
+        1980
+    ],
+    [
+        11,
+        "Centipede",
+        "Shoot 'em up",
+        "Atari, Inc.",
+        "Arcade",
+        1981
+    ],
+    [
+        12,
+        "Defender",
+        "Shoot 'em up",
+        "Williams Entertainment",
+        "Arcade",
+        1981
+    ],
+    [
+        13,
+        "Donkey Kong",
+        "Platform",
+        "Nintendo",
+        "Arcade",
+        1981
+    ],
+    [
+        14,
+        "Frogger",
+        "Action",
+        "Konami/Sega",
+        "Arcade",
+        1981
+    ],
+    [
+        15,
+        "Galaga",
+        "Shoot 'em up",
+        "Namco",
+        "Arcade",
+        1981
+    ],
+    [
+        16,
+        "Tempest",
+        "Shoot 'em up",
+        "Atari, Inc.",
+        "Arcade",
+        1981
+    ],
+    [
+        17,
+        "Wizardry: Proving Grounds of the Mad Overlord",
+        "Role-playing",
+        "Sir-Tech",
+        "Apple II",
+        1981
+    ],
+    [
+        18,
+        "Joust",
+        "Action",
+        "Williams",
+        "Arcade",
+        1982
+    ],
+    [
+        19,
+        "Ms. Pac-Man",
+        "Maze",
+        "Midway",
+        "Arcade",
+        1982
+    ],
+    [
+        20,
+        "Pitfall!",
+        "Platform",
+        "Activision",
+        "Atari 2600",
+        1982
+    ],
+    [
+        21,
+        "Robotron: 2084",
+        "Top-down shooter",
+        "Williams",
+        "Arcade",
+        1982
+    ],
+    [
+        22,
+        "Archon: The Light and the Dark",
+        "Strategy",
+        "Electronic Arts",
+        "Atari 8-bit family",
+        1983
+    ],
+    [
+        23,
+        "Lode Runner",
+        "Platform",
+        "Broderbund",
+        "Apple II",
+        1983
+    ],
+    [
+        24,
+        "M.U.L.E.",
+        "Business simulation",
+        "Electronic Arts",
+        "Atari 8-bit family",
+        1983
+    ],
+    [
+        25,
+        "Star Wars",
+        "Shoot 'em up",
+        "Atari, Inc.",
+        "Arcade",
+        1983
+    ],
+    [
+        26,
+        "Elite",
+        "Space flight simulator",
+        "Acornsoft",
+        "BBC Micro",
+        1984
+    ],
+    [
+        27,
+        "Marble Madness",
+        "Action",
+        "Atari Games",
+        "Arcade",
+        1984
+    ],
+    [
+        28,
+        "Tetris",
+        "Puzzle",
+        "Elorg",
+        "Electronika 60",
+        1984
+    ],
+    [
+        29,
+        "Gauntlet",
+        "Action role-playing",
+        "Atari Games",
+        "Arcade",
+        1985
+    ],
+    [
+        30,
+        "Ghosts 'n Goblins",
+        "Platform",
+        "Capcom",
+        "Arcade",
+        1985
+    ],
+    [
+        31,
+        "Super Mario Bros.",
+        "Platform",
+        "Nintendo",
+        "NES",
+        1985
+    ],
+    [
+        32,
+        "Ultima IV: Quest of the Avatar",
+        "Role-playing",
+        "Origin Systems",
+        "Apple II",
+        1985
+    ],
+    [
+        33,
+        "Arkanoid",
+        "Block breaker",
+        "Taito",
+        "Arcade",
+        1986
+    ],
+    [
+        34,
+        "Bubble Bobble",
+        "Platform",
+        "Taito",
+        "Arcade",
+        1986
+    ],
+    [
+        35,
+        "The Legend of Zelda",
+        "Action-adventure",
+        "Nintendo",
+        "NES",
+        1986
+    ],
+    [
+        36,
+        "Out Run",
+        "Racing",
+        "Sega",
+        "Arcade",
+        1986
+    ],
+    [
+        37,
+        "Contra",
+        "Run and gun",
+        "Konami",
+        "Arcade",
+        1987
+    ],
+    [
+        38,
+        "Double Dragon",
+        "Beat 'em up",
+        "Technos Japan",
+        "Arcade",
+        1987
+    ],
+    [
+        39,
+        "Dungeon Master",
+        "Role-playing",
+        "FTL Games",
+        "Atari ST",
+        1987
+    ],
+    [
+        40,
+        "Mike Tyson's Punch-Out!!",
+        "Sports",
+        "Nintendo",
+        "NES",
+        1987
+    ],
+    [
+        41,
+        "R-Type",
+        "Shoot 'em up",
+        "Irem",
+        "Arcade",
+        1987
+    ],
+    [
+        42,
+        "Sid Meier's Pirates!",
+        "Action-adventure",
+        "MicroProse",
+        "Commodore 64",
+        1987
+    ],
+    [
+        43,
+        "Mega Man 2",
+        "Platform",
+        "Capcom",
+        "NES",
+        1988
+    ],
+    [
+        44,
+        "Ninja Gaiden",
+        "Platform",
+        "Tecmo",
+        "NES",
+        1988
+    ],
+    [
+        45,
+        "Super Mario Bros. 3",
+        "Platform",
+        "Nintendo",
+        "NES",
+        1988
+    ],
+    [
+        46,
+        "Final Fight",
+        "Beat 'em up",
+        "Capcom",
+        "Arcade",
+        1989
+    ],
+    [
+        47,
+        "Populous",
+        "God game",
+        "Electronic Arts",
+        "Amiga",
+        1989
+    ],
+    [
+        48,
+        "Prince of Persia",
+        "Platform",
+        "Broderbund",
+        "Apple II",
+        1989
+    ],
+    [
+        49,
+        "SimCity",
+        "City-building",
+        "Maxis",
+        "Amiga, Macintosh",
+        1989
+    ],
+    [
+        50,
+        "The Secret of Monkey Island",
+        "Adventure",
+        "LucasArts",
+        "PC",
+        1990
+    ],
+    [
+        51,
+        "Speedball 2: Brutal Deluxe",
+        "Sports",
+        "Image Works",
+        "Atari ST",
+        1990
+    ],
+    [
+        52,
+        "Super Mario World",
+        "Platform",
+        "Nintendo",
+        "Super NES",
+        1990
+    ],
+    [
+        53,
+        "Wing Commander",
+        "Space flight simulator",
+        "Origin Systems",
+        "PC",
+        1990
+    ],
+    [
+        54,
+        "Another World",
+        "Platform",
+        "Delphine Software",
+        "Amiga, Atari ST",
+        1991
+    ],
+    [
+        55,
+        "Civilization",
+        "Turn-based strategy",
+        "MicroProse",
+        "PC",
+        1991
+    ],
+    [
+        56,
+        "Final Fantasy IV",
+        "Role-playing",
+        "Square",
+        "Super NES",
+        1991
+    ],
+    [
+        57,
+        "The Legend of Zelda: A Link to the Past",
+        "Action-adventure",
+        "Nintendo",
+        "Super NES",
+        1991
+    ],
+    [
+        58,
+        "Lemmings",
+        "Puzzle",
+        "Psygnosis",
+        "Amiga",
+        1991
+    ],
+    [
+        59,
+        "Micro Machines",
+        "Racing",
+        "Camerica",
+        "NES",
+        1991
+    ],
+    [
+        60,
+        "Monkey Island 2: LeChuck's Revenge",
+        "Adventure",
+        "LucasArts",
+        "PC",
+        1991
+    ],
+    [
+        61,
+        "Sonic the Hedgehog",
+        "Platform",
+        "Sega",
+        "Sega Genesis",
+        1991
+    ],
+    [
+        62,
+        "Street Fighter II",
+        "Fighting",
+        "Capcom",
+        "Arcade",
+        1991
+    ],
+    [
+        63,
+        "Super Castlevania IV",
+        "Platform",
+        "Konami",
+        "Super NES",
+        1991
+    ],
+    [
+        64,
+        "Alone in the Dark",
+        "Survival horror",
+        "Infogrames",
+        "PC",
+        1992
+    ],
+    [
+        65,
+        "Contra III: The Alien Wars",
+        "Run and gun",
+        "Konami",
+        "Super NES",
+        1992
+    ],
+    [
+        66,
+        "Dune II",
+        "Real-time strategy",
+        "Virgin Games",
+        "PC",
+        1992
+    ],
+    [
+        67,
+        "Flashback",
+        "Platform",
+        "U.S. Gold",
+        "Amiga",
+        1992
+    ],
+    [
+        68,
+        "Indiana Jones and the Fate of Atlantis",
+        "Adventure",
+        "LucasArts",
+        "PC",
+        1992
+    ],
+    [
+        69,
+        "Mortal Kombat",
+        "Fighting",
+        "Midway",
+        "Arcade",
+        1992
+    ],
+    [
+        70,
+        "Sensible Soccer",
+        "Sports",
+        "Renegade Software",
+        "Amiga, Atari ST",
+        1992
+    ],
+    [
+        71,
+        "Sonic the Hedgehog 2",
+        "Platform",
+        "Sega",
+        "Sega Genesis",
+        1992
+    ],
+    [
+        72,
+        "Star Control II",
+        "Action-adventure",
+        "Accolade",
+        "PC",
+        1992
+    ],
+    [
+        73,
+        "Streets of Rage 2",
+        "Beat 'em up",
+        "Sega",
+        "Sega Genesis",
+        1992
+    ],
+    [
+        74,
+        "Super Mario Kart",
+        "Kart racing",
+        "Nintendo",
+        "Super NES",
+        1992
+    ],
+    [
+        75,
+        "Ultima VII: The Black Gate",
+        "Role-playing",
+        "Origin Systems",
+        "PC",
+        1992
+    ],
+    [
+        76,
+        "Virtua Racing",
+        "Racing",
+        "Sega",
+        "Arcade",
+        1992
+    ],
+    [
+        77,
+        "Wolfenstein 3D",
+        "First-person shooter",
+        "Apogee Software",
+        "PC",
+        1992
+    ],
+    [
+        78,
+        "Day of the Tentacle",
+        "Adventure",
+        "LucasArts",
+        "PC",
+        1993
+    ],
+    [
+        79,
+        "Daytona USA",
+        "Racing",
+        "Sega",
+        "Arcade",
+        1993
+    ],
+    [
+        80,
+        "Doom",
+        "First-person shooter",
+        "id Software",
+        "PC",
+        1993
+    ],
+    [
+        81,
+        "Gunstar Heroes",
+        "Run and gun",
+        "Sega",
+        "Sega Genesis",
+        1993
+    ],
+    [
+        82,
+        "The Legend of Zelda: Link's Awakening",
+        "Action-adventure",
+        "Nintendo",
+        "Game Boy",
+        1993
+    ],
+    [
+        83,
+        "Mega Man X",
+        "Platform",
+        "Capcom",
+        "Super NES",
+        1993
+    ],
+    [
+        84,
+        "Mortal Kombat II",
+        "Fighting",
+        "Midway",
+        "Arcade",
+        1993
+    ],
+    [
+        85,
+        "Myst",
+        "Adventure",
+        "Broderbund",
+        "Macintosh",
+        1993
+    ],
+    [
+        86,
+        "NBA Jam",
+        "Sports",
+        "Midway",
+        "Arcade",
+        1993
+    ],
+    [
+        87,
+        "Phantasy Star IV",
+        "Role-playing",
+        "Sega",
+        "Sega Genesis",
+        1993
+    ],
+    [
+        88,
+        "Ridge Racer",
+        "Racing",
+        "Namco",
+        "Arcade",
+        1993
+    ],
+    [
+        89,
+        "Sam & Max Hit the Road",
+        "Adventure",
+        "LucasArts",
+        "PC",
+        1993
+    ],
+    [
+        90,
+        "Secret of Mana",
+        "Action role-playing",
+        "Square",
+        "Super NES",
+        1993
+    ],
+    [
+        91,
+        "Samurai Shodown",
+        "Fighting",
+        "SNK",
+        "Arcade",
+        1993
+    ],
+    [
+        92,
+        "SimCity 2000",
+        "City-building",
+        "Maxis",
+        "Macintosh",
+        1993
+    ],
+    [
+        93,
+        "Star Fox",
+        "Shoot 'em up",
+        "Nintendo",
+        "Super NES",
+        1993
+    ],
+    [
+        94,
+        "Syndicate",
+        "Real-time tactics",
+        "Electronic Arts",
+        "Amiga, PC",
+        1993
+    ],
+    [
+        95,
+        "Donkey Kong Country",
+        "Platform",
+        "Nintendo",
+        "Super NES",
+        1994
+    ],
+    [
+        96,
+        "Doom II",
+        "First-person shooter",
+        "GT Interactive",
+        "PC",
+        1994
+    ],
+    [
+        97,
+        "EarthBound",
+        "Role-playing",
+        "Nintendo",
+        "Super NES",
+        1994
+    ],
+    [
+        98,
+        "Final Fantasy VI",
+        "Role-playing",
+        "Square",
+        "Super NES",
+        1994
+    ],
+    [
+        99,
+        "Sega Rally Championship",
+        "Racing",
+        "Sega",
+        "Arcade",
+        1994
+    ],
+    [
+        100,
+        "Sensible World of Soccer",
+        "Sports",
+        "Renegade Software",
+        "Amiga",
+        1994
+    ],
+    [
+        101,
+        "Star Wars: TIE Fighter",
+        "Space flight simulator",
+        "LucasArts",
+        "PC",
+        1994
+    ],
+    [
+        102,
+        "Super Metroid",
+        "Action-adventure",
+        "Nintendo",
+        "Super NES",
+        1994
+    ],
+    [
+        103,
+        "Tempest 2000",
+        "Shoot 'em up",
+        "Atari Corporation",
+        "Atari Jaguar",
+        1994
+    ],
+    [
+        104,
+        "Theme Park",
+        "Business simulation",
+        "Electronic Arts",
+        "Amiga, PC",
+        1994
+    ],
+    [
+        105,
+        "Virtua Fighter 2",
+        "Fighting",
+        "Sega",
+        "Arcade",
+        1994
+    ],
+    [
+        106,
+        "X-COM: UFO Defense",
+        "Turn-based strategy",
+        "MicroProse",
+        "PC",
+        1994
+    ],
+    [
+        107,
+        "Chrono Trigger",
+        "Role-playing",
+        "Square",
+        "Super NES",
+        1995
+    ],
+    [
+        108,
+        "Command & Conquer",
+        "Real-time strategy",
+        "Virgin Interactive",
+        "PC",
+        1995
+    ],
+    [
+        109,
+        "MechWarrior 2: 31st Century Combat",
+        "Vehicle simulation",
+        "Activision",
+        "PC",
+        1995
+    ],
+    [
+        110,
+        "Warcraft II: Tides of Darkness",
+        "Real-time strategy",
+        "Blizzard Entertainment",
+        "PC",
+        1995
+    ],
+    [
+        111,
+        "Wipeout",
+        "Racing",
+        "Psygnosis",
+        "PC, PlayStation",
+        1995
+    ],
+    [
+        112,
+        "Worms",
+        "Artillery",
+        "Ocean Software",
+        "Amiga",
+        1995
+    ],
+    [
+        113,
+        "Yoshi's Island",
+        "Platform",
+        "Nintendo",
+        "Super NES",
+        1995
+    ],
+    [
+        114,
+        "Civilization II",
+        "Turn-based strategy",
+        "MicroProse",
+        "PC",
+        1996
+    ],
+    [
+        115,
+        "Command & Conquer: Red Alert",
+        "Real-time strategy",
+        "Virgin Interactive",
+        "PC",
+        1996
+    ],
+    [
+        116,
+        "Duke Nukem 3D",
+        "First-person shooter",
+        "GT Interactive",
+        "PC",
+        1996
+    ],
+    [
+        117,
+        "Mario Kart 64",
+        "Kart racing",
+        "Nintendo",
+        "Nintendo 64",
+        1996
+    ],
+    [
+        118,
+        "Nights into Dreams...",
+        "Action",
+        "Sega",
+        "Saturn",
+        1996
+    ],
+    [
+        119,
+        "PaRappa the Rapper",
+        "Rhythm",
+        "Sony Computer Entertainment",
+        "PlayStation",
+        1996
+    ],
+    [
+        120,
+        "Pok\u00e9mon Redand Blue",
+        "Role-playing",
+        "Nintendo",
+        "Game Boy",
+        1996
+    ],
+    [
+        121,
+        "Quake",
+        "First-person shooter",
+        "GT Interactive",
+        "PC",
+        1996
+    ],
+    [
+        122,
+        "Resident Evil",
+        "Survival horror",
+        "Capcom",
+        "PlayStation",
+        1996
+    ],
+    [
+        123,
+        "Super Mario 64",
+        "Platform",
+        "Nintendo",
+        "Nintendo 64",
+        1996
+    ],
+    [
+        124,
+        "Tekken 3",
+        "Fighting",
+        "Namco",
+        "Arcade",
+        1996
+    ],
+    [
+        125,
+        "Tomb Raider",
+        "Action-adventure",
+        "Eidos Interactive",
+        "Saturn, PC, PlayStation",
+        1996
+    ],
+    [
+        126,
+        "Wave Race 64",
+        "Racing",
+        "Nintendo",
+        "Nintendo 64",
+        1996
+    ],
+    [
+        127,
+        "Wipeout 2097",
+        "Racing",
+        "Psygnosis",
+        "PlayStation",
+        1996
+    ],
+    [
+        128,
+        "Age of Empires",
+        "Real-time strategy",
+        "Microsoft",
+        "PC",
+        1997
+    ],
+    [
+        129,
+        "Castlevania: Symphony of the Night",
+        "Action-adventure",
+        "Konami",
+        "PlayStation",
+        1997
+    ],
+    [
+        130,
+        "Diablo",
+        "Action role-playing",
+        "Blizzard Entertainment",
+        "PC",
+        1997
+    ],
+    [
+        131,
+        "Fallout",
+        "Role-playing",
+        "Interplay Entertainment",
+        "PC",
+        1997
+    ],
+    [
+        132,
+        "Final Fantasy Tactics",
+        "Tactical role-playing",
+        "Square",
+        "PlayStation",
+        1997
+    ],
+    [
+        133,
+        "Final Fantasy VII",
+        "Role-playing",
+        "Square",
+        "PlayStation",
+        1997
+    ],
+    [
+        134,
+        "GoldenEye 007",
+        "First-person shooter",
+        "Nintendo",
+        "Nintendo 64",
+        1997
+    ],
+    [
+        135,
+        "Gran Turismo",
+        "Racing",
+        "Sony Computer Entertainment",
+        "PlayStation",
+        1997
+    ],
+    [
+        136,
+        "Grand Theft Auto",
+        "Action-adventure",
+        "BMG Interactive",
+        "PC",
+        1997
+    ],
+    [
+        137,
+        "Quake II",
+        "First-person shooter",
+        "Activision",
+        "PC",
+        1997
+    ],
+    [
+        138,
+        "Star Fox 64",
+        "Shoot 'em up",
+        "Nintendo",
+        "Nintendo 64",
+        1997
+    ],
+    [
+        139,
+        "Star Wars Jedi Knight: Dark Forces II",
+        "First-person shooter",
+        "LucasArts",
+        "PC",
+        1997
+    ],
+    [
+        140,
+        "Total Annihilation",
+        "Real-time strategy",
+        "Cavedog Entertainment",
+        "PC",
+        1997
+    ],
+    [
+        141,
+        "Ultima Online",
+        "MMORPG",
+        "Electronic Arts",
+        "PC",
+        1997
+    ],
+    [
+        142,
+        "Baldur's Gate",
+        "Role-playing",
+        "Black Isle Studios",
+        "PC",
+        1998
+    ],
+    [
+        143,
+        "Crash Bandicoot: Warped",
+        "Platform",
+        "Sony Computer Entertainment",
+        "PlayStation",
+        1998
+    ],
+    [
+        144,
+        "Dance Dance Revolution",
+        "Rhythm",
+        "Konami",
+        "Arcade",
+        1998
+    ],
+    [
+        145,
+        "Fallout 2",
+        "Role-playing",
+        "Interplay Entertainment",
+        "PC",
+        1998
+    ],
+    [
+        146,
+        "Grim Fandango",
+        "Adventure",
+        "LucasArts",
+        "PC",
+        1998
+    ],
+    [
+        147,
+        "Half-Life",
+        "First-person shooter",
+        "Sierra Studios",
+        "PC",
+        1998
+    ],
+    [
+        148,
+        "The Legend of Zelda: Ocarina of Time",
+        "Action-adventure",
+        "Nintendo",
+        "Nintendo 64",
+        1998
+    ],
+    [
+        149,
+        "Metal Gear Solid",
+        "Stealth",
+        "Konami",
+        "PlayStation",
+        1998
+    ],
+    [
+        150,
+        "Panzer Dragoon Saga",
+        "Role-playing",
+        "Sega",
+        "Saturn",
+        1998
+    ],
+    [
+        151,
+        "Resident Evil 2",
+        "Survival horror",
+        "Capcom",
+        "PlayStation",
+        1998
+    ],
+    [
+        152,
+        "Soulcalibur",
+        "Fighting",
+        "Namco",
+        "Arcade",
+        1998
+    ],
+    [
+        153,
+        "StarCraft",
+        "Real-time strategy",
+        "Blizzard Entertainment",
+        "PC",
+        1998
+    ],
+    [
+        154,
+        "Suikoden II",
+        "Role-playing",
+        "Konami",
+        "PlayStation",
+        1998
+    ],
+    [
+        155,
+        "Thief: The Dark Project",
+        "Stealth",
+        "Eidos Interactive",
+        "PC",
+        1998
+    ],
+    [
+        156,
+        "Age of Empires II",
+        "Real-time strategy",
+        "Microsoft",
+        "PC",
+        1999
+    ],
+    [
+        157,
+        "EverQuest",
+        "MMORPG",
+        "Sony Online Entertainment",
+        "PC",
+        1999
+    ],
+    [
+        158,
+        "Homeworld",
+        "Real-time strategy",
+        "Sierra Studios",
+        "PC",
+        1999
+    ],
+    [
+        159,
+        "Planescape: Torment",
+        "Role-playing",
+        "Interplay Entertainment",
+        "PC",
+        1999
+    ],
+    [
+        160,
+        "Pok\u00e9mon Goldand Silver",
+        "Role-playing",
+        "Nintendo",
+        "Game Boy Color",
+        1999
+    ],
+    [
+        161,
+        "Quake III: Arena",
+        "First-person shooter",
+        "Activision",
+        "PC",
+        1999
+    ],
+    [
+        162,
+        "Shenmue",
+        "Adventure",
+        "Sega",
+        "Dreamcast",
+        1999
+    ],
+    [
+        163,
+        "Silent Hill",
+        "Survival horror",
+        "Konami",
+        "PlayStation",
+        1999
+    ],
+    [
+        164,
+        "System Shock 2",
+        "First-person shooter",
+        "Electronic Arts",
+        "PC",
+        1999
+    ],
+    [
+        165,
+        "Unreal Tournament",
+        "First-person shooter",
+        "GT Interactive",
+        "PC",
+        1999
+    ],
+    [
+        166,
+        "Baldur's Gate II: Shadows of Amn",
+        "Role-playing",
+        "Black Isle Studios",
+        "PC",
+        2000
+    ],
+    [
+        167,
+        "Counter-Strike",
+        "First-person shooter",
+        "Valve",
+        "PC",
+        2000
+    ],
+    [
+        168,
+        "Deus Ex",
+        "Action role-playing",
+        "Eidos Interactive",
+        "PC",
+        2000
+    ],
+    [
+        169,
+        "Diablo II",
+        "Action role-playing",
+        "Blizzard Entertainment",
+        "PC",
+        2000
+    ],
+    [
+        170,
+        "Jet Set Radio",
+        "Platform",
+        "Sega",
+        "Dreamcast",
+        2000
+    ],
+    [
+        171,
+        "The Legend of Zelda: Majora's Mask",
+        "Action-adventure",
+        "Nintendo",
+        "Nintendo 64",
+        2000
+    ],
+    [
+        172,
+        "Marvel vs. Capcom 2: New Age of Heroes",
+        "Fighting",
+        "Capcom",
+        "Arcade",
+        2000
+    ],
+    [
+        173,
+        "The Sims",
+        "Life simulation",
+        "Electronic Arts",
+        "PC",
+        2000
+    ],
+    [
+        174,
+        "Thief II: The Metal Age",
+        "Stealth",
+        "Eidos Interactive",
+        "PC",
+        2000
+    ],
+    [
+        175,
+        "Tony Hawk's Pro Skater 2",
+        "Sports",
+        "Activision",
+        "PlayStation",
+        2000
+    ],
+    [
+        176,
+        "Advance Wars",
+        "Turn-based tactics",
+        "Nintendo",
+        "Game Boy Advance",
+        2001
+    ],
+    [
+        177,
+        "Animal Crossing",
+        "Life simulation",
+        "Nintendo",
+        "GameCube",
+        2001
+    ],
+    [
+        178,
+        "Devil May Cry",
+        "Action-adventure",
+        "Capcom",
+        "PlayStation 2",
+        2001
+    ],
+    [
+        179,
+        "Final Fantasy X",
+        "Role-playing",
+        "Square",
+        "PlayStation 2",
+        2001
+    ],
+    [
+        180,
+        "Gran Turismo 3: A-Spec",
+        "Racing",
+        "Sony Computer Entertainment",
+        "PlayStation 2",
+        2001
+    ],
+    [
+        181,
+        "Grand Theft Auto III",
+        "Action-adventure",
+        "Rockstar Games",
+        "PlayStation 2",
+        2001
+    ],
+    [
+        182,
+        "Halo: Combat Evolved",
+        "First-person shooter",
+        "Microsoft Game Studios",
+        "Xbox",
+        2001
+    ],
+    [
+        183,
+        "Ico",
+        "Action-adventure",
+        "Sony Computer Entertainment",
+        "PlayStation 2",
+        2001
+    ],
+    [
+        184,
+        "Ikaruga",
+        "Shoot 'em up",
+        "Treasure",
+        "Arcade",
+        2001
+    ],
+    [
+        185,
+        "Max Payne",
+        "Third-person shooter",
+        "Gathering of Developers",
+        "PC",
+        2001
+    ],
+    [
+        186,
+        "Metal Gear Solid 2: Sons of Liberty",
+        "Stealth",
+        "Konami",
+        "PlayStation 2",
+        2001
+    ],
+    [
+        187,
+        "Phoenix Wright: Ace Attorney",
+        "Adventure",
+        "Capcom",
+        "Game Boy Advance",
+        2001
+    ],
+    [
+        188,
+        "Rez",
+        "Shoot 'em up",
+        "Sega",
+        "Dreamcast, PlayStation 2",
+        2001
+    ],
+    [
+        189,
+        "Silent Hill 2",
+        "Survival horror",
+        "Konami",
+        "PlayStation 2",
+        2001
+    ],
+    [
+        190,
+        "Super Smash Bros. Melee",
+        "Fighting",
+        "Nintendo",
+        "GameCube",
+        2001
+    ],
+    [
+        191,
+        "Tony Hawk's Pro Skater 3",
+        "Sports",
+        "Activision",
+        "PlayStation, PlayStation 2",
+        2001
+    ],
+    [
+        192,
+        "Battlefield 1942",
+        "First-person shooter",
+        "Electronic Arts",
+        "PC",
+        2002
+    ],
+    [
+        193,
+        "The Elder Scrolls III: Morrowind",
+        "Action role-playing",
+        "Bethesda Softworks",
+        "PC",
+        2002
+    ],
+    [
+        194,
+        "Eternal Darkness: Sanity's Requiem",
+        "Survival horror",
+        "Nintendo",
+        "GameCube",
+        2002
+    ],
+    [
+        195,
+        "Grand Theft Auto: Vice City",
+        "Action-adventure",
+        "Rockstar Games",
+        "PlayStation 2",
+        2002
+    ],
+    [
+        196,
+        "Kingdom Hearts",
+        "Action role-playing",
+        "Square",
+        "PlayStation 2",
+        2002
+    ],
+    [
+        197,
+        "The Legend of Zelda: The Wind Waker",
+        "Action-adventure",
+        "Nintendo",
+        "GameCube",
+        2002
+    ],
+    [
+        198,
+        "Metroid Prime",
+        "Action-adventure",
+        "Nintendo",
+        "GameCube",
+        2002
+    ],
+    [
+        199,
+        "Soulcalibur II",
+        "Fighting",
+        "Namco",
+        "Arcade",
+        2002
+    ],
+    [
+        200,
+        "Tom Clancy's Splinter Cell",
+        "Stealth",
+        "Ubisoft",
+        "Xbox",
+        2002
+    ],
+    [
+        201,
+        "Warcraft III: Reign of Chaos",
+        "Real-time strategy",
+        "Blizzard Entertainment",
+        "PC, Macintosh",
+        2002
+    ],
+    [
+        202,
+        "Beyond Good & Evil",
+        "Action-adventure",
+        "Ubisoft",
+        "PlayStation 2",
+        2003
+    ],
+    [
+        203,
+        "F-Zero GX",
+        "Racing",
+        "Nintendo",
+        "GameCube",
+        2003
+    ],
+    [
+        204,
+        "Max Payne 2: The Fall of Max Payne",
+        "Third-person shooter",
+        "Rockstar Games",
+        "PC",
+        2003
+    ],
+    [
+        205,
+        "Prince of Persia: The Sands of Time",
+        "Action-adventure",
+        "Ubisoft",
+        "PlayStation 2",
+        2003
+    ],
+    [
+        206,
+        "Star Wars: Knights of the Old Republic",
+        "Role-playing",
+        "LucasArts",
+        "Xbox",
+        2003
+    ],
+    [
+        207,
+        "WarioWare, Inc.: Mega Microgames!",
+        "Action",
+        "Nintendo",
+        "Game Boy Advance",
+        2003
+    ],
+    [
+        208,
+        "Burnout 3: Takedown",
+        "Racing",
+        "Electronic Arts",
+        "PlayStation 2, Xbox",
+        2004
+    ],
+    [
+        209,
+        "The Chronicles of Riddick: Escape from Butcher Bay",
+        "Stealth",
+        "Vivendi Universal Games",
+        "Xbox",
+        2004
+    ],
+    [
+        210,
+        "Dragon Quest VIII",
+        "Role-playing",
+        "Square Enix",
+        "PlayStation 2",
+        2004
+    ],
+    [
+        211,
+        "Gran Turismo 4",
+        "Racing",
+        "Sony Computer Entertainment",
+        "PlayStation 2",
+        2004
+    ],
+    [
+        212,
+        "Grand Theft Auto: San Andreas",
+        "Action-adventure",
+        "Rockstar Games",
+        "PlayStation 2",
+        2004
+    ],
+    [
+        213,
+        "Half-Life 2",
+        "First-person shooter",
+        "Valve",
+        "PC",
+        2004
+    ],
+    [
+        214,
+        "Halo 2",
+        "First-person shooter",
+        "Microsoft Game Studios",
+        "Xbox",
+        2004
+    ],
+    [
+        215,
+        "Katamari Damacy",
+        "Action",
+        "Namco",
+        "PlayStation 2",
+        2004
+    ],
+    [
+        216,
+        "Metal Gear Solid 3: Snake Eater",
+        "Stealth",
+        "Konami",
+        "PlayStation 2",
+        2004
+    ],
+    [
+        217,
+        "Rome: Total War",
+        "Strategy",
+        "Activision",
+        "PC",
+        2004
+    ],
+    [
+        218,
+        "The Sims 2",
+        "Life simulation",
+        "Electronic Arts",
+        "PC",
+        2004
+    ],
+    [
+        219,
+        "World of Warcraft",
+        "MMORPG",
+        "Blizzard Entertainment",
+        "PC, Macintosh",
+        2004
+    ],
+    [
+        220,
+        "Call of Duty 2",
+        "First-person shooter",
+        "Activision",
+        "PC",
+        2005
+    ],
+    [
+        221,
+        "Civilization IV",
+        "Turn-based strategy",
+        "2K Games",
+        "PC",
+        2005
+    ],
+    [
+        222,
+        "Devil May Cry 3: Dante's Awakening",
+        "Action-adventure",
+        "Capcom",
+        "PlayStation 2",
+        2005
+    ],
+    [
+        223,
+        "God of War",
+        "Action-adventure",
+        "Sony Computer Entertainment",
+        "PlayStation 2",
+        2005
+    ],
+    [
+        224,
+        "Guitar Hero",
+        "Rhythm",
+        "RedOctane",
+        "PlayStation 2",
+        2005
+    ],
+    [
+        225,
+        "Psychonauts",
+        "Platform",
+        "Majesco",
+        "PC, Xbox",
+        2005
+    ],
+    [
+        226,
+        "Resident Evil 4",
+        "Survival horror",
+        "Capcom",
+        "GameCube",
+        2005
+    ],
+    [
+        227,
+        "Shadow of the Colossus",
+        "Action-adventure",
+        "Sony Computer Entertainment",
+        "PlayStation 2",
+        2005
+    ],
+    [
+        228,
+        "Tom Clancy's Splinter Cell: Chaos Theory",
+        "Stealth",
+        "Ubisoft",
+        "GameCube, PC, PlayStation 2, Xbox",
+        2005
+    ],
+    [
+        229,
+        "Company of Heroes",
+        "Real-time strategy",
+        "THQ",
+        "PC",
+        2006
+    ],
+    [
+        230,
+        "The Elder Scrolls IV: Oblivion",
+        "Action role-playing",
+        "2K Games, Bethesda Softworks",
+        "PC, Xbox 360",
+        2006
+    ],
+    [
+        231,
+        "Gears of War",
+        "Third-person shooter",
+        "Microsoft Game Studios",
+        "Xbox 360",
+        2006
+    ],
+    [
+        232,
+        "Hitman: Blood Money",
+        "Stealth",
+        "Eidos Interactive",
+        "PC, PlayStation 2, Xbox, Xbox 360",
+        2006
+    ],
+    [
+        233,
+        "The Legend of Zelda: Twilight Princess",
+        "Action-adventure",
+        "Nintendo",
+        "GameCube, Wii",
+        2006
+    ],
+    [
+        234,
+        "\u014ckami",
+        "Action-adventure",
+        "Capcom",
+        "PlayStation 2",
+        2006
+    ],
+    [
+        235,
+        "Wii Sports",
+        "Sports",
+        "Nintendo",
+        "Wii",
+        2006
+    ],
+    [
+        236,
+        "BioShock",
+        "First-person shooter",
+        "2K Games",
+        "PC, Xbox 360",
+        2007
+    ],
+    [
+        237,
+        "Call of Duty 4: Modern Warfare",
+        "First-person shooter",
+        "Activision",
+        "PC, PlayStation 3, Xbox 360",
+        2007
+    ],
+    [
+        238,
+        "God of War II",
+        "Action-adventure",
+        "Sony Computer Entertainment",
+        "PlayStation 2",
+        2007
+    ],
+    [
+        239,
+        "Halo 3",
+        "First-person shooter",
+        "Microsoft Game Studios",
+        "Xbox 360",
+        2007
+    ],
+    [
+        240,
+        "Mass Effect",
+        "Action role-playing",
+        "Microsoft Game Studios",
+        "Xbox 360",
+        2007
+    ],
+    [
+        241,
+        "Portal",
+        "Puzzle-platformer",
+        "Valve",
+        "PC, Xbox 360",
+        2007
+    ],
+    [
+        242,
+        "Rock Band",
+        "Rhythm",
+        "MTV Games",
+        "PlayStation 3, Xbox 360",
+        2007
+    ],
+    [
+        243,
+        "Super Mario Galaxy",
+        "Platform",
+        "Nintendo",
+        "Wii",
+        2007
+    ],
+    [
+        244,
+        "Team Fortress 2",
+        "First-person shooter",
+        "Valve",
+        "PC, Xbox 360",
+        2007
+    ],
+    [
+        245,
+        "The World Ends with You",
+        "Role-playing",
+        "Square Enix",
+        "Nintendo DS",
+        2007
+    ],
+    [
+        246,
+        "Braid",
+        "Puzzle-platformer",
+        "Microsoft Game Studios",
+        "Xbox 360",
+        2008
+    ],
+    [
+        247,
+        "Burnout Paradise",
+        "Racing",
+        "Electronic Arts",
+        "PC, PlayStation 3, Xbox 360",
+        2008
+    ],
+    [
+        248,
+        "Dead Space",
+        "Survival horror",
+        "Electronic Arts",
+        "PlayStation 3, Xbox 360",
+        2008
+    ],
+    [
+        249,
+        "Fable II",
+        "Action role-playing",
+        "Microsoft Game Studios",
+        "Xbox 360",
+        2008
+    ],
+    [
+        250,
+        "Fallout 3",
+        "Action role-playing",
+        "Bethesda Softworks",
+        "PC, PlayStation 3, Xbox 360",
+        2008
+    ],
+    [
+        251,
+        "Gears of War 2",
+        "Third-person shooter",
+        "Microsoft Game Studios",
+        "Xbox 360",
+        2008
+    ],
+    [
+        252,
+        "Grand Theft Auto IV",
+        "Action-adventure",
+        "Rockstar Games",
+        "PlayStation 3, Xbox 360",
+        2008
+    ],
+    [
+        253,
+        "Left 4 Dead",
+        "First-person shooter",
+        "Valve",
+        "PC, Xbox 360",
+        2008
+    ],
+    [
+        254,
+        "LittleBigPlanet",
+        "Platform",
+        "Sony Computer Entertainment",
+        "PlayStation 3",
+        2008
+    ],
+    [
+        255,
+        "Persona 4",
+        "Role-playing",
+        "Atlus",
+        "PlayStation 2",
+        2008
+    ],
+    [
+        256,
+        "Rock Band 2",
+        "Rhythm",
+        "MTV Games",
+        "Xbox 360",
+        2008
+    ],
+    [
+        257,
+        "Spelunky",
+        "Platform",
+        "Derek Yu",
+        "PC",
+        2008
+    ],
+    [
+        258,
+        "Street Fighter IV",
+        "Fighting",
+        "Capcom",
+        "Arcade",
+        2008
+    ],
+    [
+        259,
+        "Valkyria Chronicles",
+        "Tactical role-playing",
+        "Sega",
+        "PlayStation 3",
+        2008
+    ],
+    [
+        260,
+        "Angry Birds",
+        "Puzzle",
+        "Rovio Entertainment",
+        "Maemo, iOS",
+        2009
+    ],
+    [
+        261,
+        "Assassin's Creed II",
+        "Action-adventure",
+        "Ubisoft",
+        "PlayStation 3, Xbox 360",
+        2009
+    ],
+    [
+        262,
+        "Batman: Arkham Asylum",
+        "Action-adventure",
+        "Eidos Interactive, Warner Bros. Interactive Entertainment",
+        "PlayStation 3, Xbox 360",
+        2009
+    ],
+    [
+        263,
+        "Bayonetta",
+        "Action",
+        "Sega",
+        "PlayStation 3, Xbox 360",
+        2009
+    ],
+    [
+        264,
+        "Borderlands",
+        "Action role-playing",
+        "2K Games",
+        "PC, PlayStation 3, Xbox 360",
+        2009
+    ],
+    [
+        265,
+        "Demon's Souls",
+        "Action role-playing",
+        "Sony Computer Entertainment",
+        "PlayStation 3",
+        2009
+    ],
+    [
+        266,
+        "Dragon Age: Origins",
+        "Role-playing",
+        "Electronic Arts",
+        "PC, PlayStation 3, Xbox 360",
+        2009
+    ],
+    [
+        267,
+        "League of Legends",
+        "MOBA",
+        "Riot Games",
+        "PC",
+        2009
+    ],
+    [
+        268,
+        "Left 4 Dead 2",
+        "First-person shooter",
+        "Valve",
+        "PC, Xbox 360",
+        2009
+    ],
+    [
+        269,
+        "Plants vs. Zombies",
+        "Tower defense",
+        "PopCap Games",
+        "PC, Macintosh",
+        2009
+    ],
+    [
+        270,
+        "Uncharted 2: Among Thieves",
+        "Action-adventure",
+        "Sony Computer Entertainment",
+        "PlayStation 3",
+        2009
+    ],
+    [
+        271,
+        "God of War III",
+        "Action-adventure",
+        "Sony Computer Entertainment",
+        "PlayStation 3",
+        2010
+    ],
+    [
+        272,
+        "Heavy Rain",
+        "Adventure",
+        "Sony Computer Entertainment",
+        "PlayStation 3",
+        2010
+    ],
+    [
+        273,
+        "Limbo",
+        "Platform",
+        "Microsoft Game Studios",
+        "Xbox 360",
+        2010
+    ],
+    [
+        274,
+        "Mass Effect 2",
+        "Action role-playing",
+        "Electronic Arts",
+        "PC, Xbox 360",
+        2010
+    ],
+    [
+        275,
+        "Red Dead Redemption",
+        "Action-adventure",
+        "Rockstar Games",
+        "PlayStation 3, Xbox 360",
+        2010
+    ],
+    [
+        276,
+        "Rock Band 3",
+        "Rhythm",
+        "MTV Games",
+        "Nintendo DS, PlayStation 3, Xbox 360, Wii",
+        2010
+    ],
+    [
+        277,
+        "StarCraft II: Wings of Liberty",
+        "Real-time strategy",
+        "Blizzard Entertainment",
+        "PC, Macintosh",
+        2010
+    ],
+    [
+        278,
+        "Super Mario Galaxy 2",
+        "Platform",
+        "Nintendo",
+        "Wii",
+        2010
+    ],
+    [
+        279,
+        "Super Meat Boy",
+        "Platform",
+        "Team Meat",
+        "Xbox 360",
+        2010
+    ],
+    [
+        280,
+        "Xenoblade Chronicles",
+        "Action role-playing",
+        "Nintendo",
+        "Wii",
+        2010
+    ],
+    [
+        281,
+        "Batman: Arkham City",
+        "Action-adventure",
+        "Warner Bros. Interactive Entertainment",
+        "PlayStation 3, Xbox 360",
+        2011
+    ],
+    [
+        282,
+        "Dark Souls",
+        "Action role-playing",
+        "Namco Bandai Games",
+        "PlayStation 3, Xbox 360",
+        2011
+    ],
+    [
+        283,
+        "The Elder Scrolls V: Skyrim",
+        "Action role-playing",
+        "Bethesda Softworks",
+        "PC, PlayStation 3, Xbox 360",
+        2011
+    ],
+    [
+        284,
+        "Minecraft",
+        "Sandbox",
+        "Mojang",
+        "PC",
+        2011
+    ],
+    [
+        285,
+        "Portal 2",
+        "Puzzle-platformer",
+        "Valve",
+        "PC, PlayStation 3, Xbox 360",
+        2011
+    ],
+    [
+        286,
+        "Dishonored",
+        "Stealth",
+        "Bethesda Softworks",
+        "PC, PlayStation 3, Xbox 360",
+        2012
+    ],
+    [
+        287,
+        "Far Cry 3",
+        "First-person shooter",
+        "Ubisoft",
+        "PC, PlayStation 3, Xbox 360",
+        2012
+    ],
+    [
+        288,
+        "Fire Emblem: Awakening",
+        "Tactical role-playing",
+        "Nintendo",
+        "Nintendo 3DS",
+        2012
+    ],
+    [
+        289,
+        "Journey",
+        "Adventure",
+        "Sony Computer Entertainment",
+        "PlayStation 3",
+        2012
+    ],
+    [
+        290,
+        "Hotline Miami",
+        "Action",
+        "Devolver Digital",
+        "PC",
+        2012
+    ],
+    [
+        291,
+        "The Walking Dead",
+        "Adventure",
+        "Telltale Games",
+        "PC, PlayStation 3, Xbox 360",
+        2012
+    ],
+    [
+        292,
+        "XCOM: Enemy Unknown",
+        "Turn-based strategy",
+        "2K Games",
+        "PC, PlayStation 3, Xbox 360",
+        2012
+    ],
+    [
+        293,
+        "BioShock Infinite",
+        "First-person shooter",
+        "2K Games",
+        "PC, PlayStation 3, Xbox 360",
+        2013
+    ],
+    [
+        294,
+        "Dota 2",
+        "MOBA",
+        "Valve",
+        "PC",
+        2013
+    ],
+    [
+        295,
+        "Grand Theft Auto V",
+        "Action-adventure",
+        "Rockstar Games",
+        "PlayStation 3, Xbox 360",
+        2013
+    ],
+    [
+        296,
+        "The Last of Us",
+        "Action-adventure",
+        "Sony Computer Entertainment",
+        "PlayStation 3",
+        2013
+    ],
+    [
+        297,
+        "Papers, Please",
+        "Puzzle",
+        "3909 LLC",
+        "PC, Macintosh",
+        2013
+    ],
+    [
+        298,
+        "Destiny",
+        "First-person shooter",
+        "Bungie",
+        "PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+        2014
+    ],
+    [
+        299,
+        "Shovel Knight",
+        "Platform",
+        "Yacht Club Games",
+        "Nintendo 3DS, PC, Wii U",
+        2014
+    ],
+    [
+        300,
+        "Bloodborne",
+        "Action role-playing",
+        "Sony Computer Entertainment",
+        "PlayStation 4",
+        2015
+    ],
+    [
+        301,
+        "Rocket League",
+        "Sports",
+        "Psyonix",
+        "PC, PlayStation 4",
+        2015
+    ],
+    [
+        302,
+        "Undertale",
+        "Role-playing",
+        "Toby Fox",
+        "PC, Macintosh",
+        2015
+    ],
+    [
+        303,
+        "The Witcher 3: Wild Hunt",
+        "Action role-playing",
+        "CD Projekt",
+        "PC, PlayStation 4, Xbox One",
+        2015
+    ],
+    [
+        304,
+        "Inside",
+        "Platform",
+        "Playdead",
+        "Xbox One",
+        2016
+    ],
+    [
+        305,
+        "Overwatch",
+        "First-person shooter",
+        "Blizzard Entertainment",
+        "PC, PlayStation 4, Xbox One",
+        2016
+    ],
+    [
+        306,
+        "Stardew Valley",
+        "Simulation",
+        "ConcernedApe",
+        "PC",
+        2016
+    ],
+    [
+        307,
+        "Uncharted 4: A Thief's End",
+        "Action-adventure",
+        "Sony Computer Entertainment",
+        "PlayStation 4",
+        2016
+    ],
+    [
+        308,
+        "The Legend of Zelda: Breath of the Wild",
+        "Action-adventure",
+        "Nintendo",
+        "Nintendo Switch, Wii U",
+        2017
+    ],
+    [
+        309,
+        "Super Mario Odyssey",
+        "Platform",
+        "Nintendo",
+        "Nintendo Switch",
+        2017
+    ],
+    [
+        310,
+        "God of War",
+        "Action-adventure",
+        "Sony Interactive Entertainment",
+        "PlayStation 4",
+        2018
+    ],
+    [
+        311,
+        "Red Dead Redemption 2",
+        "Action-adventure",
+        "Rockstar Games",
+        "PlayStation 4, Xbox One",
+        2018
+    ]
+]
