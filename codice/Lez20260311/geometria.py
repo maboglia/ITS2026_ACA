@@ -1,5 +1,6 @@
 from punto import Punto
 from segmento import Segmento
+from triangolo import Triangolo
 
 A = Punto(2, 2)
 B = Punto(6, 2)
@@ -16,3 +17,9 @@ BC = Segmento(B, C)
 print(f"La lunghezza del segmento AB e: {AB.lunghezza()}")
 print(f"La lunghezza del segmento AC e: {AC.lunghezza()}")
 print(f"La lunghezza del segmento BC e: {BC.lunghezza()}")
+
+t1 = Triangolo(A, B, C)
+
+print(t1.perimetro())
+print(t1.area())
+print(t1)
