@@ -20,6 +20,8 @@ print(f"La lunghezza del segmento BC e: {BC.lunghezza()}")
 
 t1 = Triangolo(A, B, C)
 
-print(t1.perimetro())
-print(t1.area())
-print(t1)
+t2 = Triangolo(Punto(5,5), Punto(9,9), Punto(15,6))
+
+print(t2.perimetro())
+print(t2.area())
+print(t2)
