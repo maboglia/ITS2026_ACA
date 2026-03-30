@@ -1,0 +1,18 @@
+select nome, prezzo_unitario, quantita_stock from Prodotti
+Laptop Pro                        1200.00     15
+Mouse Wireless                      25.50     50
+Scrivania Legno                    150.00      5
+Sedia Ergonomica                    89.99      0
+Monitor 4K                         350.00      8
+Tastiera Meccanica                  75.00     25
+Cuffie Noise Cancelling            199.00     12
+Webcam HD                           45.90      0
+Libreria Modulare                  210.00      3
+Lampada da Scrivania LED            35.00     40
+Piantana Alogena                   120.00      7
+Risme Carta A4 (5pz)                22.50    100
+Set Penne Gel                       12.00    200
+Organizer da tavolo                 18.50     15
+Hard Disk Esterno 2TB               85.00     30
+Smartphone Entry Level             150.00     10
+Cavo HDMI 2m                         9.99    150
