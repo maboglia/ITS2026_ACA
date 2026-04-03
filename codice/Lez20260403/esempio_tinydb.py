@@ -6,17 +6,17 @@ from tinydb import TinyDB
 db = TinyDB("db.json")
 
 #Inserire un singolo record
-db.insert({"nome": "Mario", "eta": 30})
+# db.insert({"nome": "Mario", "eta": 30, "hobby": "Pesca sportiva del pitone"})
 
-# Inserire più record
-db.insert_multiple([
-    {"nome": "Anna", "eta": 25},
-    {"nome": "Luca", "eta": 40}
-])
+# # Inserire più record
+# db.insert_multiple([
+#     {"nome": "Anna", "eta": 25},
+#     {"nome": "Luca", "eta": 40}
+# ])
 
 # Tutti i record
-for user in db.all():
-    print(user, user['nome'], user['eta'] )
+# for user in db.all():
+#     print(user, user['nome'], user['eta'] )
 
 # # TinyDB usa l’oggetto Query.
 
@@ -25,8 +25,8 @@ from tinydb import Query
 Persona = Query()
 
 # # Cercare record con condizione
-# ris = db.search(Persona.nome == "Mario")
-# print(ris)
+ris = db.search(Persona.nome == "Mario")
+print(ris)
 
 # # Condizione numerica
 # ris = db.search(Persona.eta > 30)
@@ -41,7 +41,7 @@ Persona = Query()
 
 # # 6) Aggiornamento record
 # # Update con condizione
-# db.update({"eta": 31}, Persona.nome == "Mario")
+# db.update({"nome": "Mario"}, Persona.nome == "Luca")
 # # Aggiornamento usando funzione
 # db.update(lambda x: {"eta": x["eta"] + 1}, Persona.nome == "Anna")
 
@@ -55,26 +55,27 @@ Persona = Query()
 # # 8) Uso di tabelle (collections)
 # # TinyDB può gestire più tabelle.
 
-# utenti = db.table("utenti")
-# prodotti = db.table("prodotti")
+utenti = db.table("utenti")
+prodotti = db.table("prodotti")
 
-# utenti.insert({"username": "admin", "ruolo": "root"})
-# prodotti.insert({"nome": "PC", "prezzo": 1200})
+utenti.insert({"username": "pippo", "ruolo": "editor"})
+prodotti.insert({"nome": "Laptop", "prezzo": 1500})
 
 # Leggere da tabella:
 
-# print(utenti.all())
+print(utenti.all())
+print(prodotti.all())
 
 # 9) ID automatico (doc_id)
 # Ogni record ha un ID.
 
-doc_id = db.insert({"nome": "Sara", "eta": 20})
-print(doc_id)
+# doc_id = db.insert({"nome": "Sara", "eta": 20})
+# print(doc_id)
 
-# Leggere per ID:
+# # Leggere per ID:
 
-record = db.get(doc_id=doc_id)
-print(record)
+# record = db.get(doc_id=doc_id)
+# print(record)
 
 # # Aggiornare per ID:
 
