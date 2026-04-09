@@ -1,3 +1,134 @@
+PRAGMA foreign_keys = ON;
+
+/*******************************************************************************
+   Create Tables
+********************************************************************************/
+
+CREATE TABLE Artist (
+    ArtistId INTEGER PRIMARY KEY,
+    Name TEXT
+);
+
+CREATE TABLE Album (
+    AlbumId INTEGER PRIMARY KEY,
+    Title TEXT NOT NULL,
+    ArtistId INTEGER NOT NULL,
+    FOREIGN KEY (ArtistId) REFERENCES Artist(ArtistId)
+);
+
+CREATE TABLE Employee (
+    EmployeeId INTEGER PRIMARY KEY,
+    LastName TEXT NOT NULL,
+    FirstName TEXT NOT NULL,
+    Title TEXT,
+    ReportsTo INTEGER,
+    BirthDate TEXT,
+    HireDate TEXT,
+    Address TEXT,
+    City TEXT,
+    State TEXT,
+    Country TEXT,
+    PostalCode TEXT,
+    Phone TEXT,
+    Fax TEXT,
+    Email TEXT,
+    FOREIGN KEY (ReportsTo) REFERENCES Employee(EmployeeId)
+);
+
+CREATE TABLE Customer (
+    CustomerId INTEGER PRIMARY KEY,
+    FirstName TEXT NOT NULL,
+    LastName TEXT NOT NULL,
+    Company TEXT,
+    Address TEXT,
+    City TEXT,
+    State TEXT,
+    Country TEXT,
+    PostalCode TEXT,
+    Phone TEXT,
+    Fax TEXT,
+    Email TEXT NOT NULL,
+    SupportRepId INTEGER,
+    FOREIGN KEY (SupportRepId) REFERENCES Employee(EmployeeId)
+);
+
+CREATE TABLE Genre (
+    GenreId INTEGER PRIMARY KEY,
+    Name TEXT
+);
+
+CREATE TABLE MediaType (
+    MediaTypeId INTEGER PRIMARY KEY,
+    Name TEXT
+);
+
+CREATE TABLE Track (
+    TrackId INTEGER PRIMARY KEY,
+    Name TEXT NOT NULL,
+    AlbumId INTEGER,
+    MediaTypeId INTEGER NOT NULL,
+    GenreId INTEGER,
+    Composer TEXT,
+    Milliseconds INTEGER NOT NULL,
+    Bytes INTEGER,
+    UnitPrice REAL NOT NULL,
+    FOREIGN KEY (AlbumId) REFERENCES Album(AlbumId),
+    FOREIGN KEY (MediaTypeId) REFERENCES MediaType(MediaTypeId),
+    FOREIGN KEY (GenreId) REFERENCES Genre(GenreId)
+);
+
+CREATE TABLE Invoice (
+    InvoiceId INTEGER PRIMARY KEY,
+    CustomerId INTEGER NOT NULL,
+    InvoiceDate TEXT NOT NULL,
+    BillingAddress TEXT,
+    BillingCity TEXT,
+    BillingState TEXT,
+    BillingCountry TEXT,
+    BillingPostalCode TEXT,
+    Total REAL NOT NULL,
+    FOREIGN KEY (CustomerId) REFERENCES Customer(CustomerId)
+);
+
+CREATE TABLE InvoiceLine (
+    InvoiceLineId INTEGER PRIMARY KEY,
+    InvoiceId INTEGER NOT NULL,
+    TrackId INTEGER NOT NULL,
+    UnitPrice REAL NOT NULL,
+    Quantity INTEGER NOT NULL,
+    FOREIGN KEY (InvoiceId) REFERENCES Invoice(InvoiceId),
+    FOREIGN KEY (TrackId) REFERENCES Track(TrackId)
+);
+
+CREATE TABLE Playlist (
+    PlaylistId INTEGER PRIMARY KEY,
+    Name TEXT
+);
+
+CREATE TABLE PlaylistTrack (
+    PlaylistId INTEGER,
+    TrackId INTEGER,
+    PRIMARY KEY (PlaylistId, TrackId),
+    FOREIGN KEY (PlaylistId) REFERENCES Playlist(PlaylistId),
+    FOREIGN KEY (TrackId) REFERENCES Track(TrackId)
+);
+
+/*******************************************************************************
+   Indexes
+********************************************************************************/
+
+CREATE INDEX IF NOT EXISTS idx_Album_ArtistId ON Album(ArtistId);
+CREATE INDEX IF NOT EXISTS idx_Customer_SupportRepId ON Customer(SupportRepId);
+CREATE INDEX IF NOT EXISTS idx_Employee_ReportsTo ON Employee(ReportsTo);
+CREATE INDEX IF NOT EXISTS idx_Invoice_CustomerId ON Invoice(CustomerId);
+CREATE INDEX IF NOT EXISTS idx_InvoiceLine_InvoiceId ON InvoiceLine(InvoiceId);
+CREATE INDEX IF NOT EXISTS idx_InvoiceLine_TrackId ON InvoiceLine(TrackId);
+CREATE INDEX IF NOT EXISTS idx_PlaylistTrack_PlaylistId ON PlaylistTrack(PlaylistId);
+CREATE INDEX IF NOT EXISTS idx_PlaylistTrack_TrackId ON PlaylistTrack(TrackId);
+CREATE INDEX IF NOT EXISTS idx_Track_AlbumId ON Track(AlbumId);
+CREATE INDEX IF NOT EXISTS idx_Track_GenreId ON Track(GenreId);
+CREATE INDEX IF NOT EXISTS idx_Track_MediaTypeId ON Track(MediaTypeId);
+
 
 /*******************************************************************************
    Populate Tables
