@@ -1,7 +1,7 @@
 
 libri = []
 
-source = open("database\libri.csv", 'r')
+source = open("libri.csv", 'r')
 
 for riga in source:
     riga_splittata = riga.split(",")
@@ -10,18 +10,18 @@ for riga in source:
     prezzo = float(riga_splittata[4].replace('"', ''))
     print(f"Il libro {titolo} ha {pagine} pagine e costa €{prezzo}")
     # trovare una strategia per l'editore
-    #aggiungiamo i dati di ciascun libro alla lista di libri
+    # aggiungiamo i dati di ciascun libro alla lista di libri
     libri.append([titolo, pagine, prezzo, 1])
 
 source.close()
 
-f = open("database\libri.html", "w")
+f = open("tabella_libri.html", "w")
 
 f.write("<table>")
 f.write("<tr><th>Titolo</th><th>pagine</th><th>prezzo</th></tr>")
 for libro in libri:
     f.write("<tr>")
-    titolo = str(libro[0]).replace("'", "\\'")  
+    titolo = str(libro[0]).replace("'", "\\'")
     f.write(f"<td>{titolo}</td>")
 
     pagine = libro[1]

@@ -1,7 +1,7 @@
 
 libri = []
 
-source = open("database\libri.csv", 'r')
+source = open("libri.csv", 'r')
 
 for riga in source:
     riga_splittata = riga.split(",")
@@ -10,19 +10,20 @@ for riga in source:
     prezzo = float(riga_splittata[4].replace('"', ''))
     print(f"Il libro {titolo} ha {pagine} pagine e costa €{prezzo}")
     # trovare una strategia per l'editore
-    #aggiungiamo i dati di ciascun libro alla lista di libri
+    # aggiungiamo i dati di ciascun libro alla lista di libri
     libri.append([titolo, pagine, prezzo, 1])
 
 source.close()
 
-f = open("database\insert_libri.sql", "w")
+f = open("insert_libri.sql", "w")
 
 for libro in libri:
-    titolo = str(libro[0]).replace("'", "\\'")  
+    titolo = str(libro[0]).replace("'", "\\'")
     pagine = libro[1]
     prezzo = libro[2]
     editore_id = libro[3]
-    f.write(f"INSERT INTO libri SET titolo = '{titolo}', pagine = {pagine}, prezzo = {prezzo}, editore_id = {editore_id};\n")
+    f.write(
+        f"INSERT INTO libri SET titolo = '{titolo}', pagine = {pagine}, prezzo = {prezzo}, editore_id = {editore_id};\n")
 
 f.close()
 
