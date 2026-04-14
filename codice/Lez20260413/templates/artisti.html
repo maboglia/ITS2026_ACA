@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css" >
+</head>
+<body>
+    <div class="container">
+        <h1>I nostri artisti migliori</h1>
+        <table id="tabella">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Etichetta</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for artist in artists %}
+                    <tr>
+                        <td>{{artist[0]}}</td>
+                        <td>{{artist[1]}}</td>
+                        <td><a target="_blank" href="https://www.google.com/search?q={{artist[0]}}">Profilo</a></td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+
+        </table>
+    </div>
+</body>
+</html>

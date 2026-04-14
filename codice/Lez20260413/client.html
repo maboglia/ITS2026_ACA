@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css" >
+</head>
+<body>
+    <div class="container">
+        <h1>I nostri artisti migliori</h1>
+        <table id="tabella">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Etichetta</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+ 
+                
+            </tbody>
+
+        </table>
+    </div>
+
+    <script>
+
+        const URL = 'http://127.0.0.1:5001/api/artisti'
+
+        fetch(URL)
+            .then(risposta => risposta.json())
+            .then(artisti => {
+                for (const artista of artisti){
+                    
+                    const TR = document.createElement('tr')
+                    const TD_Nome = document.createElement('td')
+                    const TD_Etichetta = document.createElement('td')
+                    const TD_Link = document.createElement('td')
+                    TD_Nome.textContent = artista.Name
+                    TD_Etichetta.textContent = "ACA Dischi top"
+                    TD_Link.textContent = "Profilo"
+                    TR.append(TD_Nome, TD_Etichetta, TD_Link)
+                    document.querySelector("#tabella > tbody").append(TR) 
+
+                }
+            })
+
+
+    </script>
+
+</body>
+</html>
