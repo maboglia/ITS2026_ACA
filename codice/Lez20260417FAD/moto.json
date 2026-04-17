@@ -1,0 +1,122 @@
+[
+    {
+        "Marca": "Harley-Davidson",
+        "Modello": "Iron 883",
+        "Cilindrata (cc)": "883",
+        "Prezzo (\u20ac)": "10500"
+    },
+    {
+        "Marca": "Yamaha",
+        "Modello": "MT-07",
+        "Cilindrata (cc)": "689",
+        "Prezzo (\u20ac)": "7500"
+    },
+    {
+        "Marca": "Honda",
+        "Modello": "CB500F",
+        "Cilindrata (cc)": "500",
+        "Prezzo (\u20ac)": "6200"
+    },
+    {
+        "Marca": "Kawasaki",
+        "Modello": "Ninja 650",
+        "Cilindrata (cc)": "649",
+        "Prezzo (\u20ac)": "7900"
+    },
+    {
+        "Marca": "Ducati",
+        "Modello": "Monster 821",
+        "Cilindrata (cc)": "821",
+        "Prezzo (\u20ac)": "12500"
+    },
+    {
+        "Marca": "BMW",
+        "Modello": "R 1250 GS",
+        "Cilindrata (cc)": "1250",
+        "Prezzo (\u20ac)": "18500"
+    },
+    {
+        "Marca": "Triumph",
+        "Modello": "Street Triple",
+        "Cilindrata (cc)": "765",
+        "Prezzo (\u20ac)": "10000"
+    },
+    {
+        "Marca": "Suzuki",
+        "Modello": "V-Strom 650",
+        "Cilindrata (cc)": "645",
+        "Prezzo (\u20ac)": "8200"
+    },
+    {
+        "Marca": "KTM",
+        "Modello": "Duke 390",
+        "Cilindrata (cc)": "373",
+        "Prezzo (\u20ac)": "5900"
+    },
+    {
+        "Marca": "Indian",
+        "Modello": "Scout Sixty",
+        "Cilindrata (cc)": "999",
+        "Prezzo (\u20ac)": "11300"
+    },
+    {
+        "Marca": "Aprilia",
+        "Modello": "Tuono V4",
+        "Cilindrata (cc)": "1077",
+        "Prezzo (\u20ac)": "15500"
+    },
+    {
+        "Marca": "Royal Enfield",
+        "Modello": "Classic 500",
+        "Cilindrata (cc)": "499",
+        "Prezzo (\u20ac)": "5500"
+    },
+    {
+        "Marca": "MV Agusta",
+        "Modello": "Brutale 800",
+        "Cilindrata (cc)": "798",
+        "Prezzo (\u20ac)": "14500"
+    },
+    {
+        "Marca": "Husqvarna",
+        "Modello": "Svartpilen 401",
+        "Cilindrata (cc)": "373",
+        "Prezzo (\u20ac)": "6800"
+    },
+    {
+        "Marca": "Benelli",
+        "Modello": "Leoncino 500",
+        "Cilindrata (cc)": "500",
+        "Prezzo (\u20ac)": "5700"
+    },
+    {
+        "Marca": "CFMoto",
+        "Modello": "700 CL-X",
+        "Cilindrata (cc)": "693",
+        "Prezzo (\u20ac)": "7500"
+    },
+    {
+        "Marca": "Moto Guzzi",
+        "Modello": "V7 Stone",
+        "Cilindrata (cc)": "744",
+        "Prezzo (\u20ac)": "9200"
+    },
+    {
+        "Marca": "Zero",
+        "Modello": "SR/F (elettrica)",
+        "Cilindrata (cc)": "0",
+        "Prezzo (\u20ac)": "19500"
+    },
+    {
+        "Marca": "Piaggio",
+        "Modello": "Vespa GTS 300",
+        "Cilindrata (cc)": "278",
+        "Prezzo (\u20ac)": "5400"
+    },
+    {
+        "Marca": "SYM",
+        "Modello": "Maxsym 400",
+        "Cilindrata (cc)": "399",
+        "Prezzo (\u20ac)": "6000"
+    }
+]

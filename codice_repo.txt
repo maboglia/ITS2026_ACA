@@ -1,0 +1,285 @@
+.
+├── ACA2026.drawio
+├── ACA2026-Pagina-11.drawio.pdf
+├── codice
+│   ├── Lez20260116
+│   │   ├── script01.py
+│   │   ├── script02.py
+│   │   ├── script03.py
+│   │   └── script04.py
+│   ├── Lez20260122
+│   │   ├── app01.py
+│   │   ├── app.py
+│   │   ├── hello.py
+│   │   └── tavola_pitagorica.py
+│   ├── Lez20260129
+│   │   ├── liste.py
+│   │   ├── magazzino.py
+│   │   ├── studenti.py
+│   │   ├── studenti.sql
+│   │   └── studenti.txt
+│   ├── Lez20260130
+│   │   └── magazzino.html
+│   ├── Lez20260202
+│   │   ├── belle_parole.py
+│   │   ├── control_flow.py
+│   │   └── variabili_tipi.py
+│   ├── Lez20260206
+│   │   ├── insert_libri.sql
+│   │   ├── libreria_advanced.py
+│   │   ├── libreria_html.py
+│   │   ├── libreria.py
+│   │   ├── libri.csv
+│   │   ├── script.mysql-notebook
+│   │   └── tabella_libri.html
+│   ├── Lez20260209
+│   │   ├── lancia_dadi.py
+│   │   ├── lista_citta.py
+│   │   ├── rock_paper_scissors.py
+│   │   ├── scorri_liste.py
+│   │   ├── todo_list.py
+│   │   └── voti_esame.py
+│   ├── Lez20260212
+│   │   ├── analyzer.py
+│   │   ├── collezione_fumetti.py
+│   │   ├── dictionary_to_json.py
+│   │   ├── hello_collections.py
+│   │   ├── hello_function.py
+│   │   ├── hello_lambda_function.py
+│   │   ├── scontrino_bar.py
+│   │   └── scontrino.json
+│   ├── Lez20260224
+│   │   ├── calcola_media_voti.py
+│   │   ├── geografia.py
+│   │   ├── madlibs_game_adv.py
+│   │   ├── madlibs_game.py
+│   │   ├── number_guessing_gui.py
+│   │   ├── number_guessing.py
+│   │   ├── python_non_funziona.py
+│   │   └── tipi_pitone.py
+│   ├── Lez20260306
+│   │   └── mysql_connection.py
+│   ├── Lez20260311
+│   │   ├── geometria.py
+│   │   ├── punto.py
+│   │   ├── segmento.py
+│   │   └── triangolo.py
+│   ├── Lez20260312
+│   │   ├── biblioteca_demo.py
+│   │   ├── biblioteca.py
+│   │   ├── libro_dao.py
+│   │   └── libro.py
+│   ├── Lez20260316
+│   │   ├── moduli.py
+│   │   ├── modulo1.py
+│   │   ├── modulo2.py
+│   │   ├── ricapython.py
+│   │   └── test.py
+│   ├── Lez20260323
+│   │   ├── animals.py
+│   │   ├── film.py
+│   │   ├── forme.py
+│   │   ├── http_request.py
+│   │   ├── m1.py
+│   │   ├── m2.py
+│   │   └── slot_machine.py
+│   ├── Lez20260326
+│   │   ├── connessione.py
+│   │   ├── magazzino_rest.py
+│   │   ├── magazzino_service.py
+│   │   ├── prodotto.py
+│   │   └── prodotto_repo.py
+│   ├── Lez20260330
+│   │   ├── collegamento_db.py
+│   │   ├── Esercizio_magazzino.txt
+│   │   ├── liste.py
+│   │   ├── list_mapping_filtering.py
+│   │   └── list_ordinate.py
+│   ├── Lez20260403
+│   │   ├── db.json
+│   │   ├── esempio_tinydb.py
+│   │   ├── esempio_tkinter.py
+│   │   ├── prodotti.py
+│   │   └── truck.jpg
+│   ├── Lez20260408
+│   │   ├── controller.py
+│   │   ├── database.py
+│   │   └── employee_dao.py
+│   ├── Lez20260409FAD
+│   │   ├── controller
+│   │   │   ├── gestionale_ctrl.py
+│   │   │   ├── __init__.py
+│   │   │   └── __pycache__
+│   │   │       ├── gestionale_ctrl.cpython-310.pyc
+│   │   │       └── __init__.cpython-310.pyc
+│   │   ├── database
+│   │   │   ├── connessione.py
+│   │   │   ├── database.db
+│   │   │   └── script.sql
+│   │   ├── geometria.py
+│   │   ├── latticino.py
+│   │   ├── libro_matricola.py
+│   │   ├── model
+│   │   │   ├── customer.py
+│   │   │   ├── employee.py
+│   │   │   ├── __init__.py
+│   │   │   └── __pycache__
+│   │   │       ├── customer.cpython-310.pyc
+│   │   │       ├── employee.cpython-310.pyc
+│   │   │       └── __init__.cpython-310.pyc
+│   │   ├── repos
+│   │   │   ├── employee_dao.py
+│   │   │   ├── employee_dao_sqlite.py
+│   │   │   ├── __init__.py
+│   │   │   └── __pycache__
+│   │   │       ├── employee_dao.cpython-310.pyc
+│   │   │       └── __init__.cpython-310.pyc
+│   │   └── view
+│   ├── Lez20260413
+│   │   ├── app.py
+│   │   ├── client.html
+│   │   ├── controller
+│   │   │   └── disco_controller.py
+│   │   ├── http_server.py
+│   │   ├── model
+│   │   │   ├── album.py
+│   │   │   ├── artist.py
+│   │   │   └── __init__.py
+│   │   ├── service
+│   │   │   └── disco_service.py
+│   │   └── templates
+│   │       └── artisti.html
+│   ├── Lez20260417FAD
+│   │   ├── conoscenze.py
+│   │   └── mod01.py
+│   └── presenze.csv
+├── codice_repo.txt
+├── database
+│   ├── ACA2026-SchemaSQL.png
+│   ├── alimenti.sql
+│   ├── biblioteca
+│   │   └── biblioteca_libri.sql
+│   ├── Biblioteca2.csv
+│   ├── canzoni.sql
+│   ├── Chinook_MySql.sql
+│   ├── daily_routine.sql
+│   ├── daily_warm_up.sql
+│   ├── data_engineering.md
+│   ├── data_engineering.pdf
+│   ├── estrai_dati_games.py
+│   ├── fondamenti-base-di-dati.pdf
+│   ├── games
+│   │   └── its2026_games.sql
+│   ├── games.json
+│   ├── games.sql
+│   ├── gestione_magazzino_bogliaccino.sql
+│   ├── insert_libri.sql
+│   ├── Lez_20260204.sql
+│   ├── libreria.sql
+│   ├── libri.csv
+│   ├── libri.html
+│   ├── query_01.sql.md
+│   ├── Script-1.sql
+│   ├── Script-2.sql
+│   ├── Script-3.sql
+│   ├── Script.sql
+│   ├── studenti.sql
+│   ├── Tabella_products.sql
+│   └── trigger_procedures.sql
+├── Esercizio_magazzino.txt
+├── fondamenti
+│   ├── 01_coding.pdf
+│   ├── 02_coding.pdf
+│   ├── coding
+│   │   ├── 201_variabili.md
+│   │   ├── 202_costanti.md
+│   │   ├── 203_operatori.md
+│   │   ├── 204_espressioni.md
+│   │   ├── 205_tipi_di_dato.md
+│   │   ├── 206_strutture_di_controllo.md
+│   │   ├── 207_funzioni_procedure.md
+│   │   ├── 208_strutture_dati.md
+│   │   ├── img
+│   │   │   ├── 001_uso.png
+│   │   │   ├── 002_aggregazione.png
+│   │   │   ├── 003_ereditarieta.png
+│   │   │   ├── introduction-to-oops-concepts-5-638.jpeg
+│   │   │   ├── linguaggi.jpg
+│   │   │   ├── mvc-2.png
+│   │   │   ├── paradigmi.jpg
+│   │   │   ├── principi-OOP.png
+│   │   │   ├── strutture_controllo.gif
+│   │   │   ├── three-tier-layers.png
+│   │   │   ├── threetier.png
+│   │   │   └── valueVSreference.gif
+│   │   └── README.md
+│   └── corso
+│       ├── 00.md
+│       ├── 00.pdf
+│       ├── 01.md
+│       ├── 01.pdf
+│       ├── 02.md
+│       ├── 02.pdf
+│       ├── 03.md
+│       ├── 03.pdf
+│       ├── 04.md
+│       ├── 04.pdf
+│       ├── 05.md
+│       ├── 05.pdf
+│       ├── 06.md
+│       ├── 06.pdf
+│       ├── 07.md
+│       ├── 07.pdf
+│       ├── 08.md
+│       ├── 08.pdf
+│       ├── 09.md
+│       ├── 09.pdf
+│       ├── 10.md
+│       ├── 10.pdf
+│       ├── 11.md
+│       ├── 11.pdf
+│       ├── 12.md
+│       ├── 12.pdf
+│       ├── 13.md
+│       ├── 13.pdf
+│       ├── 14.md
+│       ├── 14.pdf
+│       ├── 15.md
+│       ├── 15.pdf
+│       ├── 16.md
+│       ├── 16.pdf
+│       ├── 17.md
+│       ├── 17.pdf
+│       ├── 18.md
+│       ├── 18.pdf
+│       ├── 19.md
+│       ├── 19.pdf
+│       ├── 20.md
+│       ├── 20.pdf
+│       ├── 21.md
+│       ├── 21.pdf
+│       ├── 22.md
+│       ├── 22.pdf
+│       ├── 23.md
+│       └── 23.pdf
+├── games.json
+├── laboratorio
+│   └── laboratorio
+│       ├── aggiungi_citta.py
+│       ├── database_citta.py
+│       ├── Laboratorio2.py
+│       ├── Regioni.db
+│       └── seleziona_citta.py
+├── LICENSE
+├── meet_aca.txt
+├── python
+│   ├── 01_Lists.pdf
+│   ├── 02_Accessing_Items.pdf
+│   ├── 03_List_Unpacking.pdf
+│   ├── 04_Looping_over_Lists.pdf
+│   ├── 05_Adding_or_Removing_Items.pdf
+│   └── 06_Finding_Items.pdf
+├── README.md
+└── stories.txt
+
+44 directories, 238 files

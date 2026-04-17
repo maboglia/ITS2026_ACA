@@ -1,0 +1,36 @@
+├── ACA2026-Pagina-11.drawio.pdf
+├── codice_repo_pdf.txt
+│   ├── data_engineering.pdf
+│   ├── fondamenti-base-di-dati.pdf
+│   ├── 01_coding.pdf
+│   ├── 02_coding.pdf
+│       ├── 00.pdf
+│       ├── 01.pdf
+│       ├── 02.pdf
+│       ├── 03.pdf
+│       ├── 04.pdf
+│       ├── 05.pdf
+│       ├── 06.pdf
+│       ├── 07.pdf
+│       ├── 08.pdf
+│       ├── 09.pdf
+│       ├── 10.pdf
+│       ├── 11.pdf
+│       ├── 12.pdf
+│       ├── 13.pdf
+│       ├── 14.pdf
+│       ├── 15.pdf
+│       ├── 16.pdf
+│       ├── 17.pdf
+│       ├── 18.pdf
+│       ├── 19.pdf
+│       ├── 20.pdf
+│       ├── 21.pdf
+│       ├── 22.pdf
+│       └── 23.pdf
+│   ├── 01_Lists.pdf
+│   ├── 02_Accessing_Items.pdf
+│   ├── 03_List_Unpacking.pdf
+│   ├── 04_Looping_over_Lists.pdf
+│   ├── 05_Adding_or_Removing_Items.pdf
+│   └── 06_Finding_Items.pdf
