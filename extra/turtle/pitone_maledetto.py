@@ -1,48 +1,63 @@
-import turtle
+from turtle import Turtle, done
+from random import choice
 
-t = turtle.Turtle()
+t = Turtle()
+colors = ['red', 'green', 'blue', 'orange', 'purple', 'pink', 'violet']
 
-t.goto(-200, 0) # Moves to new position
 
-t.color("red")
+def muovi(tartaruga: Turtle, pos_x, pos_y):
+    tartaruga.penup()
+    tartaruga.goto(pos_x, pos_y)
+    tartaruga.pendown()
 
-t.left(angle=90)
-t.forward(100)
+def drawLine(tartaruga, length, radius):
+    tartaruga.color(choice(colors))
+    tartaruga.left(angle=radius)
+    tartaruga.forward(length)
 
-t.right(90)
-t.forward(50)
+# t.goto(-200, 0) # Moves to new position
 
-t.right(90)
-t.forward(50)
-
-t.right(90)
-t.forward(50)
-
-t.hideturtle()
-
-t.left(90)
-t.forward(50)
-
-t.penup()       # Lifts the pen to avoid drawing
-t.goto(-100, 0) # Moves to new position
-t.left(90)
-#t.forward(100)
-
-t.pendown() 
-t.left(angle=90)
-t.forward(100)
-
-t.penup()       # Lifts the pen to avoid drawing
-t.goto(0, 0) # Moves to new position
-# t.left(90)
+# t.left(angle=90)
 # t.forward(100)
 
-t.pendown() 
-t.left(angle=90)
-t.forward(100)
+muovi(t, -200, 0)
+drawLine(t, 100, 90)
+
+
+# t.right(90)
+# t.forward(50)
+drawLine(t, 50, -90)
+
+
+# t.right(90)
+# t.forward(50)
+drawLine(t, 50, -90)
+
+# t.right(90)
+# t.forward(50)
+drawLine(t, 50, -90)
+
+# t.hideturtle()
+
+
+muovi(t, -100, 0)
+drawLine(t, 100, 270)
+
+muovi(t, 0, 0)
+drawLine(t, 100, 0)
+
+muovi(t, 100, 0)
+drawLine(t, 100, 0)
+
+
+muovi(t, 200, 0)
+drawLine(t, 100, 0)
+
+
+muovi(t, 300, 0)
+drawLine(t, 100, 0)
 
 
 
 
-
-turtle.done()
+done()
