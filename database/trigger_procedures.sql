@@ -28,4 +28,3 @@ BEGIN
 END $$
 
 DELIMITER ;
-
