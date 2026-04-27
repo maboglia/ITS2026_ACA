@@ -4,6 +4,7 @@ from time import sleep
 
 t = Turtle()
 colors = ['red', 'green', 'blue', 'orange', 'purple', 'pink', 'violet','Indigo', 'Crimson','Teal']
+t.color(choice(colors))
 
 k = 50
 k2 = k * 2
@@ -21,13 +22,11 @@ def muovi(t: Turtle, pos_x, pos_y):
 
 def drawLine(t, length, radius):
     print(f"Prima di disegnare {t.xcor()} {t.ycor()}")  
-    t.color(choice(colors))
     t.left(angle=radius)
     t.forward(length)
     print(f"Dopo aver disegnato {t.xcor()} {t.ycor()}")  
 
 def draw_O(t, x, y):
-    t.color(choice(colors))   
     t.circle(50)
 
 def draw_T(t: Turtle, x, y):
@@ -113,7 +112,7 @@ t.color('red')
 t.circle(300)
 
 t.penup()
-t.goto(x = -205, y = -205)
+t.goto(x = -207, y = -207)
 t.pendown()
 t.left(45)
 t.forward(590)
