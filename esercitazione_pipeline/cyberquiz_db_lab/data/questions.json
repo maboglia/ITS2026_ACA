@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "category": "Phishing",
+    "difficulty": 1,
+    "question": "Cos'è il phishing?",
+    "options": {
+      "A": "Un attacco che tenta di rubare credenziali tramite messaggi ingannevoli",
+      "B": "Un attacco che spegne un server remoto",
+      "C": "Un metodo per cifrare i dati",
+      "D": "Un antivirus open source"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "category": "Phishing",
+    "difficulty": 2,
+    "question": "Quale tra questi è un tipico segnale di phishing?",
+    "options": {
+      "A": "URL corretto e certificato valido",
+      "B": "Messaggio con urgenza e richiesta di dati personali",
+      "C": "Firma digitale verificata",
+      "D": "Connessione tramite VPN"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "category": "Phishing",
+    "difficulty": 2,
+    "question": "Un'email che contiene un link con dominio simile a quello reale (es. paypaI.com) è un esempio di:",
+    "options": {
+      "A": "DNS hardening",
+      "B": "Typosquatting",
+      "C": "Hash collision",
+      "D": "Port scanning"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "category": "Phishing",
+    "difficulty": 3,
+    "question": "Qual è la migliore contromisura contro il phishing per gli account aziendali?",
+    "options": {
+      "A": "Cambiare DNS",
+      "B": "Abilitare MFA (Multi-Factor Authentication)",
+      "C": "Disabilitare HTTPS",
+      "D": "Aumentare la RAM del server"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "category": "Phishing",
+    "difficulty": 3,
+    "question": "Cos'è lo spear phishing?",
+    "options": {
+      "A": "Un phishing generico inviato a milioni di utenti",
+      "B": "Un phishing mirato verso una persona o organizzazione specifica",
+      "C": "Un attacco che sfrutta la porta 22",
+      "D": "Un attacco di cifratura ransomware"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "category": "Password Security",
+    "difficulty": 1,
+    "question": "Quale password è più sicura?",
+    "options": {
+      "A": "12345678",
+      "B": "Password2024",
+      "C": "qwerty",
+      "D": "Tr3!x9P#zL2@"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 7,
+    "category": "Password Security",
+    "difficulty": 2,
+    "question": "Cos'è un attacco brute force?",
+    "options": {
+      "A": "Un attacco che tenta tutte le combinazioni possibili di password",
+      "B": "Un attacco che blocca un sito web con traffico",
+      "C": "Un attacco che modifica il DNS",
+      "D": "Un attacco che sfrutta vulnerabilità hardware"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "category": "Password Security",
+    "difficulty": 2,
+    "question": "Qual è lo scopo principale del salt nel password hashing?",
+    "options": {
+      "A": "Velocizzare l'accesso",
+      "B": "Ridurre la dimensione dell'hash",
+      "C": "Rendere inefficaci le rainbow tables",
+      "D": "Impedire l'uso di HTTPS"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "category": "Password Security",
+    "difficulty": 3,
+    "question": "Quale algoritmo è più adatto per hashing di password?",
+    "options": {
+      "A": "MD5",
+      "B": "SHA-1",
+      "C": "bcrypt",
+      "D": "Base64"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "category": "Password Security",
+    "difficulty": 3,
+    "question": "Qual è un rischio tipico del riutilizzo della stessa password su più siti?",
+    "options": {
+      "A": "Il sito diventa più lento",
+      "B": "Aumenta la probabilità di attacchi DDoS",
+      "C": "Credential stuffing in caso di data breach",
+      "D": "Riduce la sicurezza del Wi-Fi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "category": "Network Security",
+    "difficulty": 1,
+    "question": "Qual è la porta standard per HTTPS?",
+    "options": {
+      "A": "21",
+      "B": "80",
+      "C": "443",
+      "D": "53"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "category": "Network Security",
+    "difficulty": 1,
+    "question": "Qual è la funzione principale di un firewall?",
+    "options": {
+      "A": "Creare password sicure",
+      "B": "Filtrare traffico di rete in base a regole",
+      "C": "Cifrare automaticamente tutti i file",
+      "D": "Bloccare la CPU quando è sovraccarica"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "category": "Network Security",
+    "difficulty": 2,
+    "question": "Quale protocollo viene usato per risolvere nomi di dominio in indirizzi IP?",
+    "options": {
+      "A": "FTP",
+      "B": "DNS",
+      "C": "SMTP",
+      "D": "SSH"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "category": "Network Security",
+    "difficulty": 2,
+    "question": "Quale strumento è spesso usato per fare port scanning?",
+    "options": {
+      "A": "Wireshark",
+      "B": "Nmap",
+      "C": "Photoshop",
+      "D": "Excel"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "category": "Network Security",
+    "difficulty": 3,
+    "question": "Cos'è un attacco Man-in-the-Middle (MITM)?",
+    "options": {
+      "A": "Un attacco che distrugge fisicamente il server",
+      "B": "Un attacco che intercetta e modifica la comunicazione tra due parti",
+      "C": "Un attacco che elimina i log di sistema",
+      "D": "Un attacco basato su overflow della memoria"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "category": "Web Security",
+    "difficulty": 2,
+    "question": "Cos'è una SQL Injection?",
+    "options": {
+      "A": "Un metodo per proteggere un database",
+      "B": "Un attacco che inserisce codice SQL malevolo in un input",
+      "C": "Un tipo di cifratura",
+      "D": "Un attacco fisico al server"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "category": "Web Security",
+    "difficulty": 2,
+    "question": "Qual è la causa più comune di SQL Injection?",
+    "options": {
+      "A": "Uso di query concatenate senza parametri",
+      "B": "Uso di HTTPS",
+      "C": "Troppi indici nel database",
+      "D": "Password troppo lunghe"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "category": "Web Security",
+    "difficulty": 3,
+    "question": "Qual è la migliore contromisura contro SQL Injection?",
+    "options": {
+      "A": "Disabilitare il database",
+      "B": "Usare query parametrizzate/prepared statements",
+      "C": "Aumentare la dimensione dei log",
+      "D": "Cambiare indirizzo IP"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "category": "Web Security",
+    "difficulty": 2,
+    "question": "Cos'è un attacco XSS (Cross Site Scripting)?",
+    "options": {
+      "A": "Un attacco che modifica pacchetti TCP",
+      "B": "Un attacco che inserisce script malevoli in pagine web",
+      "C": "Un attacco che sfrutta la porta 25",
+      "D": "Un attacco di cifratura ransomware"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "category": "Web Security",
+    "difficulty": 3,
+    "question": "Come si può mitigare un attacco XSS?",
+    "options": {
+      "A": "Validando e sanificando input/output (escaping)",
+      "B": "Usando porte diverse",
+      "C": "Installando più RAM",
+      "D": "Disabilitando il firewall"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "category": "Cryptography",
+    "difficulty": 1,
+    "question": "Quale tra questi è un algoritmo di hashing?",
+    "options": {
+      "A": "AES",
+      "B": "RSA",
+      "C": "SHA-256",
+      "D": "HTTPS"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 22,
+    "category": "Cryptography",
+    "difficulty": 2,
+    "question": "AES è un algoritmo di:",
+    "options": {
+      "A": "Cifratura simmetrica",
+      "B": "Cifratura asimmetrica",
+      "C": "Hashing",
+      "D": "Compressione"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "category": "Cryptography",
+    "difficulty": 2,
+    "question": "RSA è un algoritmo di:",
+    "options": {
+      "A": "Cifratura simmetrica",
+      "B": "Cifratura asimmetrica",
+      "C": "Hashing",
+      "D": "Checksum"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "category": "Cryptography",
+    "difficulty": 3,
+    "question": "Qual è lo scopo principale della firma digitale?",
+    "options": {
+      "A": "Ridurre la dimensione dei file",
+      "B": "Garantire autenticità e integrità del messaggio",
+      "C": "Nascondere l'indirizzo IP",
+      "D": "Bloccare attacchi DDoS"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "category": "Cryptography",
+    "difficulty": 3,
+    "question": "Quale protocollo garantisce comunicazioni cifrate tra browser e server?",
+    "options": {
+      "A": "HTTP",
+      "B": "FTP",
+      "C": "TLS",
+      "D": "Telnet"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "category": "Malware",
+    "difficulty": 1,
+    "question": "Cos'è un malware?",
+    "options": {
+      "A": "Un software progettato per proteggere i dati",
+      "B": "Un software malevolo progettato per danneggiare o compromettere sistemi",
+      "C": "Un sistema operativo sicuro",
+      "D": "Un backup automatico"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "category": "Malware",
+    "difficulty": 2,
+    "question": "Cos'è un ransomware?",
+    "options": {
+      "A": "Un malware che cifra i file e chiede un riscatto",
+      "B": "Un malware che blocca le porte di rete",
+      "C": "Un malware che aumenta la velocità del PC",
+      "D": "Un malware che installa antivirus"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "category": "Malware",
+    "difficulty": 2,
+    "question": "Cos'è un Trojan (cavallo di Troia)?",
+    "options": {
+      "A": "Un software legittimo senza bug",
+      "B": "Un malware che si presenta come software legittimo",
+      "C": "Un attacco di rete basato su DNS",
+      "D": "Un tipo di firewall"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "category": "Malware",
+    "difficulty": 3,
+    "question": "Quale comportamento è tipico di un worm?",
+    "options": {
+      "A": "Si replica autonomamente attraverso la rete",
+      "B": "Richiede installazione manuale dall'utente",
+      "C": "Non si propaga mai",
+      "D": "È un sistema di cifratura"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "category": "Malware",
+    "difficulty": 3,
+    "question": "Quale tecnica usa spesso un malware per mantenere persistenza su un sistema?",
+    "options": {
+      "A": "Aumentare la memoria RAM",
+      "B": "Creare una voce di avvio automatico",
+      "C": "Cambiare il wallpaper",
+      "D": "Cambiare l'indirizzo MAC del router"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "category": "Incident Response",
+    "difficulty": 2,
+    "question": "Qual è la prima fase tipica dell'Incident Response secondo molte metodologie?",
+    "options": {
+      "A": "Eradicazione",
+      "B": "Preparazione",
+      "C": "Ripristino",
+      "D": "Lezione appresa"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "category": "Incident Response",
+    "difficulty": 2,
+    "question": "Cosa significa containment in Incident Response?",
+    "options": {
+      "A": "Formattare il disco subito",
+      "B": "Isolare l'incidente per limitarne la diffusione",
+      "C": "Creare nuove password per tutti",
+      "D": "Aggiornare il browser"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "category": "Incident Response",
+    "difficulty": 3,
+    "question": "Qual è un obiettivo principale della fase di eradication?",
+    "options": {
+      "A": "Rimuovere la causa dell'incidente (malware, backdoor, account compromessi)",
+      "B": "Scrivere report senza intervenire",
+      "C": "Bloccare Internet per sempre",
+      "D": "Installare un nuovo sistema operativo su tutti i PC"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "category": "Incident Response",
+    "difficulty": 3,
+    "question": "Quale attività è tipica della fase di recovery?",
+    "options": {
+      "A": "Ripristino dei sistemi e monitoraggio per verificare che l'attacco sia terminato",
+      "B": "Inviare phishing agli utenti",
+      "C": "Cambiare provider internet",
+      "D": "Bloccare tutte le porte TCP"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "category": "Incident Response",
+    "difficulty": 4,
+    "question": "Quale documento è fondamentale dopo un incidente per migliorare la sicurezza futura?",
+    "options": {
+      "A": "Lista contatti social",
+      "B": "Post-mortem / Lessons Learned report",
+      "C": "Documento di marketing",
+      "D": "Lista password degli utenti"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "category": "Logging & Monitoring",
+    "difficulty": 1,
+    "question": "Qual è lo scopo principale dei log di sistema?",
+    "options": {
+      "A": "Aumentare la velocità del computer",
+      "B": "Registrare eventi utili per diagnosi e sicurezza",
+      "C": "Bloccare le porte di rete",
+      "D": "Proteggere con crittografia i file"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "category": "Logging & Monitoring",
+    "difficulty": 2,
+    "question": "Quale evento potrebbe indicare un brute force su un account?",
+    "options": {
+      "A": "Molti login falliti in poco tempo",
+      "B": "Un backup completato",
+      "C": "Una connessione HTTPS valida",
+      "D": "Un aggiornamento di sistema"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 38,
+    "category": "Logging & Monitoring",
+    "difficulty": 3,
+    "question": "Cos'è un SIEM?",
+    "options": {
+      "A": "Un antivirus mobile",
+      "B": "Un sistema che raccoglie e correla log per rilevare minacce",
+      "C": "Un algoritmo di cifratura",
+      "D": "Un protocollo di rete"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "category": "Logging & Monitoring",
+    "difficulty": 3,
+    "question": "Quale tra questi è un indicatore possibile di compromissione (IOC)?",
+    "options": {
+      "A": "Un dominio sospetto contattato dal sistema",
+      "B": "Un file PDF legittimo",
+      "C": "Un backup giornaliero",
+      "D": "Una password lunga"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "category": "Logging & Monitoring",
+    "difficulty": 4,
+    "question": "Perché è importante centralizzare i log in un SOC?",
+    "options": {
+      "A": "Per eliminare la necessità di firewall",
+      "B": "Per correlare eventi da più sistemi e individuare attacchi complessi",
+      "C": "Per ridurre la banda internet",
+      "D": "Per evitare l'uso di antivirus"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "category": "Access Control",
+    "difficulty": 1,
+    "question": "Cosa significa il principio del Least Privilege?",
+    "options": {
+      "A": "Dare agli utenti accesso massimo per lavorare più velocemente",
+      "B": "Dare agli utenti solo i permessi strettamente necessari",
+      "C": "Disabilitare tutti gli account",
+      "D": "Usare solo password corte"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "category": "Access Control",
+    "difficulty": 2,
+    "question": "Cos'è l'autenticazione a due fattori (2FA/MFA)?",
+    "options": {
+      "A": "Login con username e password",
+      "B": "Uso di almeno due metodi diversi di verifica dell'identità",
+      "C": "Uso di DNS sicuro",
+      "D": "Uso di firewall e proxy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "category": "Access Control",
+    "difficulty": 3,
+    "question": "Qual è una differenza tra autenticazione e autorizzazione?",
+    "options": {
+      "A": "Non esiste differenza",
+      "B": "Autenticazione verifica chi sei, autorizzazione cosa puoi fare",
+      "C": "Autorizzazione verifica chi sei, autenticazione cosa puoi fare",
+      "D": "Entrambe sono sinonimi di crittografia"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "category": "Access Control",
+    "difficulty": 3,
+    "question": "Cos'è un attacco privilege escalation?",
+    "options": {
+      "A": "Un attacco che riduce i permessi dell'utente",
+      "B": "Un attacco che consente di ottenere permessi più elevati",
+      "C": "Un attacco che blocca il DNS",
+      "D": "Un attacco che aumenta la RAM"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "category": "Access Control",
+    "difficulty": 4,
+    "question": "Quale misura riduce il rischio di privilege escalation su sistemi Linux?",
+    "options": {
+      "A": "Dare sudo a tutti gli utenti",
+      "B": "Aggiornare regolarmente il sistema e limitare i permessi sudo",
+      "C": "Disabilitare SSH",
+      "D": "Usare solo password numeriche"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "category": "Secure Coding",
+    "difficulty": 2,
+    "question": "Qual è una buona pratica di secure coding per input utente?",
+    "options": {
+      "A": "Accettare qualsiasi input senza controlli",
+      "B": "Validare e sanificare sempre l'input",
+      "C": "Stampare direttamente l'input sul sito",
+      "D": "Salvare password in chiaro"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "category": "Secure Coding",
+    "difficulty": 3,
+    "question": "Perché non bisogna salvare password in chiaro in un database?",
+    "options": {
+      "A": "Perché occupano troppo spazio",
+      "B": "Perché rendono lento il database",
+      "C": "Perché in caso di breach sarebbero immediatamente utilizzabili",
+      "D": "Perché impediscono il funzionamento del firewall"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "category": "Secure Coding",
+    "difficulty": 3,
+    "question": "Cos'è un buffer overflow?",
+    "options": {
+      "A": "Un errore che causa sovraccarico di rete",
+      "B": "Un errore in cui si scrive oltre i limiti di memoria allocata",
+      "C": "Un attacco basato su password deboli",
+      "D": "Una tecnica di cifratura"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "category": "Secure Coding",
+    "difficulty": 4,
+    "question": "Quale pratica riduce il rischio di vulnerabilità legate alla gestione delle sessioni web?",
+    "options": {
+      "A": "Usare cookie senza scadenza",
+      "B": "Rigenerare l'ID di sessione dopo login e usare cookie HttpOnly/Secure",
+      "C": "Salvare session ID in URL",
+      "D": "Disabilitare HTTPS"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 50,
+    "category": "Secure Coding",
+    "difficulty": 4,
+    "question": "Qual è un rischio tipico di una cattiva gestione degli errori in produzione?",
+    "options": {
+      "A": "Riduzione del numero di utenti",
+      "B": "Leak di informazioni sensibili tramite stack trace o messaggi dettagliati",
+      "C": "Aumento della crittografia",
+      "D": "Miglioramento delle performance"
+    },
+    "answer": "B"
+  }
+]
