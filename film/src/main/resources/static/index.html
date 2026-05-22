@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css" >
+</head>
+<body>
+    
+    <div class="container">
+        <h1></h1>
+        <table>
+            <thead>
+                <th>Titolo</th>
+                <th>Regista</th>
+                <th>Anno</th>
+                <th>Rating</th>
+            </thead>
+
+            <tbody>
+
+            </tbody>
+
+        </table>
+    </div>
+
+<script>
+
+
+    const URL = "api/films";
+
+    fetch(URL)
+        .then(res => res.json())
+        .then(data => {
+            //console.log(data);
+            const tbody = document.querySelector("tbody");
+            data.forEach(film => {
+                const tr = document.createElement("tr");
+                const td1 = document.createElement("td");
+                const td2 = document.createElement("td");
+                const td3 = document.createElement("td");
+                const td4 = document.createElement("td");
+                td1.textContent = film.titolo
+                td2.textContent = film.regista
+                td3.textContent = film.anno
+                td4.textContent = film.rating
+
+                tr.append(td1, td2, td3, td4);
+
+                tbody.appendChild(tr);
+            });
+        })
+        .catch(err => console.error(err));
+
+
+</script>
+
+
+</body>
+</html>

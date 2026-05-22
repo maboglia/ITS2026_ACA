@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://wwww.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css" >
+</head>
+<body>
+    
+    <div class="container">
+        <h1></h1>
+        <table>
+            <thead>
+                <th>Titolo</th>
+                <th>Regista</th>
+                <th>Anno</th>
+                <th>Rating</th>
+            </thead>
+
+            <tbody>
+                
+                <tr th:each="f : ${lista}">
+                    <td th:text="${f.titolo}"></td>
+                    <td th:text="${f.regista}"></td>
+                    <td th:text="${f.anno}"></td>
+                    <td th:text="${f.rating}"></td>
+                </tr>
+
+            </tbody>
+
+        </table>
+    </div>
+
+
+
+</body>
+</html>
